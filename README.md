@@ -1,6 +1,6 @@
 # Compilers-1401
 
-[Flex examples](https://uploadb.me/direct/ef7b5sq0ra4c/flex.mp4.html)
+[Paranthesis and vowels & consonants](http://trainbit.com/files/2526717484/flex.mp4)
 
 [even or odd ](http://trainbit.com/files/8016717484/evenodd.mp4)
 
